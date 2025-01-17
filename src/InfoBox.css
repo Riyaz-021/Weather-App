@@ -1,0 +1,11 @@
+.info {
+  margin-top: 40px;
+  text-align: center;
+  color: black;
+}
+
+.cardContainer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
